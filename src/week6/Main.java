@@ -1,9 +1,8 @@
 package src.week6;
 
-import java.util.Scanner;
-public class main {
+public class Main {
     public static void main(String[] args){
-        main pstudio = new main();
+        Main pstudio = new Main();
         pstudio.J011();
     }
     void J011(){
