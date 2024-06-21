@@ -1,0 +1,3 @@
+Shopping list {name='chocolate', makers='gan', price=1000.0, number=7}
+Shopping list {name='cookie', makers='lotte', price=2000.0, number=5}
+Shopping list {name='juice', makers='haribo', price=1800.0, number=6}
